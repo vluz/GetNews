@@ -1,0 +1,4 @@
+GoogleNews==1.6.8
+newspaper3k==0.2.8
+pandas==1.5.3
+spacy==3.5.2
