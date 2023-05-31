@@ -20,3 +20,5 @@ All in Portuguese language:
    ➡️print output to console and to file.
 
 Note: Do not use this for production, it's untested and a ugly hack
+
+TODO: Switch over to Pegassus summaries
