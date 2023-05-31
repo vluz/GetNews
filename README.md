@@ -21,4 +21,4 @@ All in Portuguese language:
 
 Note: Do not use this for production, it's untested and a ugly hack
 
-TODO: Switch over to Pegassus summaries
+TODO: Switch over to Pegassus summaries like this: https://github.com/vluz/Summary
