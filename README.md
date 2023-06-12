@@ -1,5 +1,14 @@
-# getnews
-### Dirty simple Python script for news checking for a YouTube channel on AI
+# Get News
+### Dirty simple news checking Python script
+
+<hr>
+
+Intended use later as a component on another larger project, 
+the full automation of a YouTube channel.
+
+Will use Pegassus for Summary in a later iteration.
+
+<hr>
 
 Downloads one day of news on a subject, gets the linked web article,
 <br>
