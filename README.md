@@ -1,5 +1,5 @@
 # Get News
-### Dirty simple news checking Python script
+### Dirty-simple news checking Python script
 
 <hr>
 
